@@ -1,13 +1,7 @@
 # Site settings
-<<<<<<< HEAD
 title: Art by Paige
 description: 2 Year Old School Art
 baseurl: '' # the subpath of your site, e.g. /blog
-=======
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a> with Instagram images loaded using <a href="https://profilepageimages.usecue.com">PPI</a>.
-baseurl: '/lens-jekyll-theme' # the subpath of your site, e.g. /blog
->>>>>>> master
 url: '' # the base hostname & protocol for your site
 author:
 
