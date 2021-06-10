@@ -1,13 +1,13 @@
 ---
 layout: home
-title: Lens by HTML5 UP
+title: Lens by HTML5 UP with Instagram via PPI
 ---
 
 <!-- Thumbnail -->
-<section id="thumbnails">{% for photo in site.photos %}
+<section id="thumbnails">{% for img in site.data.images %}
 	<article>
-		<a class="thumbnail" href="{{ photo.image }}" data-position="left center"><img src="{{ photo.thumbnail }}" alt="" /></a>
-		<h2>{{ photo.title }}</h2>
-		<p>{{ photo.caption }}</p>
+		<a class="thumbnail" href="{{ img.image }}" data-position="left center"><img src="{{ img.image_small }}" alt="" /></a>		
+		<p>{{ img.caption }}</p>
+		<p><a href="{{ img.permalink }}">View on Instagram</a></p>
 	</article>
 {% endfor %}</section>
