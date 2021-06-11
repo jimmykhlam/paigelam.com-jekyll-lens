@@ -1,6 +1,6 @@
 # Site settings
 title: Art by Paige
-description: 2 Year Old School Art
+description: demo site with art by my 2-year-old.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site
 author: J.Lam
@@ -21,9 +21,6 @@ pinterest_url:
 slack_url:
 twitter_url:
 
-# Build settings
-markdown: kramdown
-
 # Plugins
 # https://github.com/brockfanning/jekyll-get-json
 plugins:
@@ -33,4 +30,7 @@ plugins:
 # Replace PPI json url with the one with your username
 jekyll_get_json:
   - data: images
-    json: 'https://profilepageimages.usecue.com/images/paigebydj/images.json'
+    json: https://profilepageimages.usecue.com/images/paigebydj/images.json
+
+# Build settings
+markdown: kramdown
