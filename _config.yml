@@ -26,6 +26,8 @@ markdown: kramdown
 
 # Plugins
 # https://github.com/brockfanning/jekyll-get-json
+# Note that as of 2021-06-11 Github Pages does not support 3rd party plugins.
+# Automated workaround: http://joshfrankel.me/blog/deploying-a-jekyll-blog-to-github-pages-with-custom-plugins-and-travisci/
 plugins:
   - jekyll-get-json
 
