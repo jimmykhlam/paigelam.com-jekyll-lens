@@ -28,7 +28,7 @@ var main = (function ($) {
      */
     settings: {
       // Preload all images.
-      preload: false,
+      preload: true, //for PPI fetch, set this to true.
 
       // Slide duration (must match "duration.slide" in _vars.scss).
       slideDuration: 500,
