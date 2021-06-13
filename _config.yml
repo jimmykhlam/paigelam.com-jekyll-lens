@@ -1,6 +1,6 @@
 # Site settings
 title: Art by Paige
-description: demo site with art by my 2-year-old.
+description:
 baseurl: '' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site
 author: J.Lam
@@ -36,3 +36,6 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+
+# Google Analytics
+google_analytics: UA-199361111-1
