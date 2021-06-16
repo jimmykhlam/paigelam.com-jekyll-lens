@@ -1,10 +1,6 @@
-# Lens - Jekyll Theme
+# Lens - Jekyll Theme loading Instagram without API
 
-A Jekyll version of the "Lens" theme by [HTML5 UP](https://html5up.net/).
-
-Modified to load images indirectly from an Instagram account via the [PPI Loader by Usecue BV](https://profilepageimages.usecue.com/).
-
-![Lens Theme](assets/images/lens.jpg 'Lens Theme')
+A Jekyll version of the "Lens" theme by [HTML5 UP](https://html5up.net/), modified to load images indirectly from Instagram via the [PPI Loader by Usecue BV](https://profilepageimages.usecue.com/).
 
 # How to Use
 
@@ -12,7 +8,9 @@ Modified to load images indirectly from an Instagram account via the [PPI Loader
 2. In the assets/js/main.js file, replace the value of `instagram_username` with your own.
 3. No need to add thumbnails as was required in the original version.
 
-Original README without the PPI Loader:
+# Original README without the PPI Loader:
+
+![Lens Theme](assets/images/lens.jpg 'Lens Theme')
 
 ```
 For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
@@ -29,6 +27,7 @@ If you would like to report a bug, ask a question, request a feature, feel free 
 Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/lens-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/lens-jekyll-theme@incoming.gitlab.com).
 
 The GitHub repository is simply a mirror of the GitLab repository.
+```
 
 # Credits
 
@@ -141,8 +140,6 @@ Credits:
     	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
     	Respond.js (j.mp/respondjs)
     	Skel (skel.io)
-
-```
 
 ```
 
