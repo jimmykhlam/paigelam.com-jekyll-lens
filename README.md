@@ -2,15 +2,19 @@
 
 A Jekyll version of the "Lens" theme by [HTML5 UP](https://html5up.net/).
 
-![Lens Theme](assets/images/lens.jpg "Lens Theme")
+Modified to load images indirectly from an Instagram account via the [PPI Loader by Usecue BV](https://profilepageimages.usecue.com/).
+
+![Lens Theme](assets/images/lens.jpg 'Lens Theme')
 
 # How to Use
+
+Original README without the PPI Loader:
 
 For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details,
 or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/),
 and [creating pages](https://jekyllrb.com/docs/pages/).
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
+- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!
 - **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file!
 
 # Issues
