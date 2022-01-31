@@ -6,8 +6,8 @@
   2. Replace the value of instagram_username with the username you used to sign up in step 1.
   3. Replace the value of instagram_amount with the number of most recent thumbnails you wish to load.
 */
-var instagram_username = 'paigebydj';
-var instagram_amount = 25;
+var instagram_username = 'art.paigelam';
+var instagram_amount = 30;
 var jsonURL =
   'https://profilepageimages.usecue.com/images/' +
   instagram_username +
